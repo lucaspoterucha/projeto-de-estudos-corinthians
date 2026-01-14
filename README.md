@@ -1,20 +1,45 @@
-# 🖤🤍 Landing Page — Sport Club Corinthians Paulista
+# 🖤🤍 Landing Page Institucional — Sport Club Corinthians Paulista
 
-Landing page institucional desenvolvida com **HTML5 e CSS3**, inspirada em padrões visuais modernos utilizados por grandes clubes e marcas esportivas.
+Landing page institucional, desenvolvida com **HTML5 e CSS3**, inspirada em padrões utilizados por **clubes de futebol europeus, marcas esportivas e grandes campanhas digitais**.
 
-O projeto apresenta o **time de futebol do Corinthians**, destacando sua história, identidade, conquistas e estádio, com foco em **design premium, performance e organização de código**.
+O projeto tem como objetivo apresentar o **time de futebol do Corinthians** de forma impactante, moderna e organizada, valorizando identidade visual, experiência do usuário e boas práticas de front-end.
+
+> ⚠️ Projeto **não oficial**, criado exclusivamente para fins educacionais, estudo e portfólio.
 
 ---
 
-## 📸 Preview
+## 🔗 Visão Geral
 
-> Hero section com imagem em tela cheia, overlay escuro e call to action centralizado, seguindo padrões profissionais de UX/UI.
+- Tipo: Landing Page Institucional
+- Tema: Futebol / Clube Esportivo
+- Público-alvo: Torcedores, fãs, visitantes institucionais
+- Foco: Design premium + organização de código
+- Stack: HTML + CSS
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Criar uma landing page visualmente forte e profissional
+- Aplicar boas práticas de **HTML semântico**
+- Separar corretamente **estrutura (HTML)** e **estilo (CSS)**
+- Utilizar imagens de forma otimizada e controlável
+- Garantir **responsividade**, legibilidade e hierarquia visual
+- Simular um projeto real de clube esportivo
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
+  - Tags semânticas (`header`, `section`, `footer`)
+  - Estrutura limpa e acessível
 - **CSS3**
-- Layout responsivo com **Flexbox** e **Grid**
-- Uso de `object-fit: cover` para controle de imagens
+  - Flexbox e Grid Layout
+  - `object-fit` e `aspect-ratio`
+  - Camadas com `z-index`
+  - Overlay para controle de contraste
+- **CSS**
+  - Sem frameworks ou bibliotecas externas
+
+---
