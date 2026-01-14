@@ -39,7 +39,5 @@ O projeto tem como objetivo apresentar o **time de futebol do Corinthians** de f
   - `object-fit` e `aspect-ratio`
   - Camadas com `z-index`
   - Overlay para controle de contraste
-- **CSS**
-  - Sem frameworks ou bibliotecas externas
 
 ---
